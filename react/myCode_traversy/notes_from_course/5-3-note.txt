@@ -1,0 +1,4 @@
+#find out more about this in react 
+static defaultProps {} ,what is it..?
+react.createRef(), what is it..?
+and ref attribute in element  components  <h1> <li> <lable><input> etc..

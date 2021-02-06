@@ -1,0 +1,3 @@
+
+#get good grasp of map, destructuring, filter, spread, classes, subclasses, modules
+ in javascript

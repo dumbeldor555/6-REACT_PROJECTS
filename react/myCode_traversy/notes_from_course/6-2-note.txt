@@ -1,0 +1,4 @@
+#so npm react-router dom installed correctly but for some reason BrowserRouter
+which is inside of the react-router-dom library is not displaying content correctly
+i don't know what is wrong here, but you are making progress slowly but making it 
+.

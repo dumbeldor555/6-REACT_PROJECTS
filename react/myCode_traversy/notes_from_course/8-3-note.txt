@@ -1,0 +1,4 @@
+find out what applymiddleware() does in creatStore functoin
+find out what compose does
+find out what is the use of thunk
+get a little bit more understading of createStore()

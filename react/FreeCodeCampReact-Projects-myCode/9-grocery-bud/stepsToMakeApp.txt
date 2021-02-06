@@ -1,0 +1,24 @@
+appearence
+
+#1 make grocery container 
+#2 inside grocery container make heading
+#3 then make input field that takes input from users
+#4 next to input field make a submit button
+#5 make individual item container that holds the input values on the (left-side) and 
+delete and edit button on the (right-side)
+#6 finally make clear all button that clears all the inputs from grocery container 
+(all done)
+functionallity
+
+#1 on submit add input to the grocery container (done)
+#2 give functionallity to edit and delete button in the individual input 
+#3 on adding the input to the grocery store display success msg on top
+#4 on removing the input display success msg on top in RED
+#5 data shold persist to the local storage
+
+to do : 
+some kind of weir thing is happaning in localstorage fuction it is appending every item 
+twice to the array 
+same string are not matching with each other because of their charCode  
+
+other then that every thing is working pretty smoothly its not you its javascript..

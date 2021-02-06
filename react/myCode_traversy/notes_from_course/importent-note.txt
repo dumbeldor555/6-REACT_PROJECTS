@@ -1,0 +1,3 @@
+you ditched the course from section 9 because you weren't getting a good understading 
+of redux so for now make some project with react only , and then learn redux again 
+from some other party it's not that hard enough practice will make you good at it. 

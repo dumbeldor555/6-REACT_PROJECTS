@@ -1,0 +1,6 @@
+questions 
+# what is javascript runtime..?
+
+notes 
+# prettier extention setting in vs code that you did not find in settings if somthing's up 
+with prittier extention then try to check that setting out

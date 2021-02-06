@@ -1,0 +1,5 @@
+# get a good understaing of how the classes work behind the scene in javascript
+(you might alredy know this) don't take it too hard
+
+#why custome mthode in javascript classes can not access the property on the classes 
+by using this key word ..??

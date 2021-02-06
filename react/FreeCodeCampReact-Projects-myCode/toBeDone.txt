@@ -1,0 +1,11 @@
+#1  i don't remember the name of the projects but in one of thoes project you need to implement 
+slide animation on left and right button click 
+
+#2 in project 12-stirpe-sub-menu you need to implement slide animetion on link hover 
+
+#3 in project 9-grocery-bud you need to take care of some business check out stepsToMakeApp.txt
+in that project directory
+
+#4 make 10-navbar project because of lack of internet you did not get to see
+what the project was 
+

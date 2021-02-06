@@ -1,0 +1,6 @@
+make the first project birthday reminder
+
+#0 make a contaier and stuff everything inside it 
+#1 make heading component (5 birthdays today)
+#2 make list containg all the people with birthday
+#3 make remove all birthday list btn that removes all the birthday list people

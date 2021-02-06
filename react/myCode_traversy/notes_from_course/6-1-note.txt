@@ -1,0 +1,3 @@
+#npm 'react-router-dom' did not install correctly, its saying somthing like 1 packege did not 
+install correctly and your application might not run as intended look in to it
+

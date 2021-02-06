@@ -1,0 +1,7 @@
+(i'm just speculating find out more  about it)
+
+when you make a funcitonal componants you don't need to import { componet } from
+react, because normally you are not rendering anything 
+///////********//////
+and when you make a class base components you have to import { component } from react 
+, because you are rendering somthing

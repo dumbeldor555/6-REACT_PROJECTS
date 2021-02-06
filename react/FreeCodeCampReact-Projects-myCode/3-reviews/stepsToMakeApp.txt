@@ -1,0 +1,11 @@
+/// Apearence
+
+#1 make a div container that contains all the components
+#2 make a hading Compnent 
+#3 make profile Block that contains all the profile pics, name, profesion, about person, 
+bottons to swipe profile and a surprise button that randomly displays a profile from 
+array
+
+// functionallity
+1# a swipe button to swipe profile forward or backwards
+2# a surprise button that randomly chooses a profile and displays it 
